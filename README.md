@@ -1,4 +1,5 @@
 # Chia's Portfolio Website
+https://f051a0303.github.io/My-Profile/
 
 
 Hello and welcome to my personal portfolio website! My name is ChiMing and I created this website to showcase my skills, projects, and work experience. The website is designed with a clean and modern aesthetic and is easy to navigate. Here's an overview of some of the website's features:
@@ -12,7 +13,7 @@ Hello and welcome to my personal portfolio website! My name is ChiMing and I cre
 - A "Skills" section that lists my technical and non-technical skills
 - A "Projects" section that showcases some of my recent projects, with descriptions and links to their respective GitHub repositories
 - A "Contact" section that allows visitors to send me a message via a contact form or by email
-- Links to my social media profiles, including LinkedIn and GitHub
+
 
 ## Usage
 

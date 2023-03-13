@@ -1,6 +1,5 @@
 # Chia's Portfolio Website
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/username/repository/blob/main/LICENSE.md)
 
 Hello and welcome to my personal portfolio website! My name is Chia and I created this website to showcase my skills, projects, and work experience. The website is designed with a clean and modern aesthetic and is easy to navigate. Here's an overview of some of the website's features:
 

@@ -6,13 +6,12 @@ Hello and welcome to my personal portfolio website! My name is ChiMing and I cre
 
 ## Features
 
-- A clean and modern design with a color scheme that's easy on the eyes
-- A responsive layout that adapts to different screen sizes, making the website accessible on both desktop and mobile devices
-- A user-friendly navigation menu that allows visitors to easily navigate to different sections of the website
-- An "About Me" section that gives a brief introduction to who I am and what I do
-- A "Skills" section that lists my technical and non-technical skills
-- A "Projects" section that showcases some of my recent projects, with descriptions and links to their respective GitHub repositories
-- A "Contact" section that allows visitors to send me a message via a contact form or by email
+- Sleek and modern design that showcases your personal brand and highlights your achievements and skills
+- Fully responsive layout that adapts to different screen sizes and devices, ensuring optimal user experience
+- User-friendly navigation menu that enables visitors to easily explore your website and find the information they're looking for
+- "About Me" section that provides a comprehensive introduction to who you are, your background, and your career goals
+- "Education" section that showcases your educational background, including degrees, certificates, and relevant coursework
+- "Contact" section that enables visitors to connect with you via a contact form or by email, making it easy for potential employers or clients to reach out to you.
 
 
 ## Usage

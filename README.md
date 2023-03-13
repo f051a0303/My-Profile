@@ -1,7 +1,7 @@
 # Chia's Portfolio Website
 
 
-Hello and welcome to my personal portfolio website! My name is Chia and I created this website to showcase my skills, projects, and work experience. The website is designed with a clean and modern aesthetic and is easy to navigate. Here's an overview of some of the website's features:
+Hello and welcome to my personal portfolio website! My name is ChiMing and I created this website to showcase my skills, projects, and work experience. The website is designed with a clean and modern aesthetic and is easy to navigate. Here's an overview of some of the website's features:
 
 ## Features
 
